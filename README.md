@@ -22,3 +22,10 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=jvitin7&theme=vision-friendly-dark&show_icons=true" alt="jvitin7's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvitin7&theme=vision-friendly-dark&show_icons=true" alt="jvitin7's most languages"/>
 </p>
+
+<br>
+
+## Social Links
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jvitin7/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jvitin7/)
